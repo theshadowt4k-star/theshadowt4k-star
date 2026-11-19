@@ -8,7 +8,7 @@
 
 <ol>
   <li>ИБ - основное направление, в котором я пробую себя и пытаюсь развиваться.
-    <p>Системное администрирование, OSINT, Red/Blue Teams, Pentest, Malware Analysis, Reverse Engineering, Форензика. \n</p>
+    <p>Системное администрирование, OSINT, Red/Blue Teams, Pentest, Malware Analysis, Reverse Engineering, Форензика.</p>
     <p>Опыт в Bash, PowerShell, CLI, Python, C++.</p>
   </li>
   <li>Minecraft Modding - хобби, которое хочется развивать.
@@ -17,10 +17,10 @@
   </li>
   <li>Программирование в иных сферах.
     <p>Микропроцессорное программирование на С.</p>
-    <p>Разработка Telegram-ботов на Python с БД SQL.</p>
+    <p>Разработка Telegram-ботов на Python с SQLite.</p>
   </li>
   <li>Web-разработка - направление, в котором предстоит работать.</li>
-  <p>(Список будет обновляться) Общая сводка о том, где имею опыт работы: Java, Python, C, C#, C++, CLI(Windows, Linux), Bash, PowerShell, HTML, CSS.</p>
+  <p>(Список будет обновляться) Общая сводка о том, где имею опыт работы: Java, Python, C, C#, C++, CLI(Windows, Linux), Bash, PowerShell, HTML, CSS, моделирование и текстурирование в Blockbench.</p>
 </ol>
 
 <p>//где-то тут надо начать использовать "0" вместо буквы "о"... (-_З)</p>
