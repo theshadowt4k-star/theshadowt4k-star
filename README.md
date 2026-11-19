@@ -1,6 +1,6 @@
 ## Hello World! I'm just human.
 
-<img width="600" height="600" alt="загрузка" src="https://github.com/user-attachments/assets/c1eb3544-0d29-40be-884b-f2a06d6206a8" />
+<img width="300" height="300" alt="загрузка" src="https://github.com/user-attachments/assets/c1eb3544-0d29-40be-884b-f2a06d6206a8" />
 
 //где-то тут надо начать использовать "0" вместо буквы "о"... (-_З)
 
