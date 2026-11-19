@@ -1,5 +1,11 @@
 ## Hello World! I'm just human.
 
+<h1>About me in Russian :ru:</h1>
+
+В общем, немного о себе. Я - простой человек с любовью к науке, программированию и всему, что так или иначе связано с этим. 
+Не скажу, что я прям гениальный гений (ДА, ТАВТОЛОГИЯ), но стараюсь развиваться в разных направлениях в условиях бума нейрослопа.  
+
+
 <!--
 **theshadowt4k-star/theshadowt4k-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
